@@ -40,7 +40,9 @@ const SocialLinks = () => {
           Resume <BsFillPersonLinesFill size={30} />
         </>
       ),
-      href: "/AmitKumerModak_Resume.pdf",
+      // href: "/AmitKumerModak_Resume.pdf",
+      href: "https://drive.google.com/drive/folders/1-2Doto7xvSD1e6XS-216txBf6zrQREBE?usp=sharing",
+      
       style: "rounded-br-md",
       download: true,
     },
