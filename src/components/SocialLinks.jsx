@@ -41,7 +41,7 @@ const SocialLinks = () => {
         </>
       ),
       // href: "/AmitKumerModak_Resume.pdf",
-      href: "https://drive.google.com/drive/folders/1-2Doto7xvSD1e6XS-216txBf6zrQREBE?usp=sharing",
+      href: "https://drive.google.com/drive/folders/1UB8NF_EZKgizuOcXzPbZhGmUB2mvsgPT?usp=sharing",
       
       style: "rounded-br-md",
       download: true,
