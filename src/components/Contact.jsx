@@ -16,7 +16,7 @@ const Contact = () => {
 
         <div className=" flex justify-center items-center">
           <form
-            action="https://getform.io/f/66351fec-74c 0-4fb9-ab60-aa45bf53cddc"
+            action="https://getform.io/f/nbdogypa"
             method="POST"
             className=" flex flex-col w-full md:w-1/2"
           >
@@ -40,7 +40,7 @@ const Contact = () => {
             ></textarea>
 
             <button className="text-white bg-gradient-to-b from-cyan-500 to-blue-500 px-6 py-3 my-8 mx-auto flex items-center rounded-md hover:scale-110 duration-300">
-              Let's talk
+              Send
             </button>
           </form>
         </div>
