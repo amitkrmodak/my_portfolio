@@ -8,7 +8,7 @@ import mongodb from "../assets/mongodb.png";
 import mysql from "../assets/mysql1.png";
 import github from "../assets/github.png";
 import tailwind from "../assets/tailwind.png";
-import springboot from "../assets/spring-boot-logo.png";
+import node from "../assets/node_logo.png";
 
 const Experience = () => {
   const techs = [
@@ -44,9 +44,9 @@ const Experience = () => {
     },
     {
       id: 6,
-      src: springboot,
-      title: "Springboot",
-      style: "shadow-white",
+      src: node,
+      title: "Node",
+      style: "shadow-green",
     },
     {
       id: 7,
