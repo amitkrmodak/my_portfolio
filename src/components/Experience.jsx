@@ -1,5 +1,4 @@
 import React from "react";
-
 import html from "../assets/html.png";
 import css from "../assets/css.png";
 import javascript from "../assets/javascript.png";
@@ -9,6 +8,7 @@ import mysql from "../assets/mysql1.png";
 import github from "../assets/github.png";
 import tailwind from "../assets/tailwind.png";
 import node from "../assets/node_logo.png";
+import java from "../assets/java.png";
 
 const Experience = () => {
   const techs = [
@@ -44,9 +44,9 @@ const Experience = () => {
     },
     {
       id: 6,
-      src: node,
-      title: "Node",
-      style: "shadow-green",
+      src: java,
+      title: "Java",
+      style: "shadow-green-400",
     },
     {
       id: 7,
