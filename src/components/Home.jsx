@@ -15,17 +15,17 @@ const Home = () => {
             I'm a Full Stack Developer
           </h2>
           <p className="text-gray-500 py-4 max-w-md">
-          With over 2 years of hands-on experience in software development, I am passionate about creating cutting-edge microservices and web applications. My expertise lies in utilizing a diverse tech stack, including Java, Hibernate, JavaScript, HTML, Tailwind CSS, React, Python to craft robust and efficient solutions.
+          With over 1 years of hands-on experience in software development, I am passionate about creating web applications. My expertise lies in utilizing a diverse tech stack, including Java, JavaScript, HTML, Tailwind CSS, React, Python to craft robust and efficient solutions.
           </p>
 
           <div>
             <Link
-              to="portfolio"
+              to="experience"
               smooth
               duration={500}
               className="group text-white w-fit px-6 py-3 my-2 flex items-center rounded-md bg-gradient-to-r from-cyan-500 to-blue-500 cursor-pointer"
             >
-              Portfolio
+              Experience
               <span className="group-hover:rotate-90 duration-300">
                 <MdOutlineKeyboardArrowRight size={25} className="ml-1" />
               </span>
