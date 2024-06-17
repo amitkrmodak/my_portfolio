@@ -13,7 +13,7 @@ const About = () => {
           </p>
         </div>
         <p className="text-xl mt-15">
-            I'm Amit Kumar Modak, a versatile software developer with a comprehensive skill set and a fervent passion for learning. Proficient in HTML, CSS, Java, Python, React, JavaScript, Node.js, MySQL, DBMS, data structures, algorithms, and more.
+            I'm Amit Kumar Modak, a versatile software developer with a comprehensive skill set and a fervent passion for learning. Proficient in HTML, CSS, Java, Python, React, JavaScript, Node js, Express js, Spring Spring boot, Hibernate MySQL, and more.
             <br/>
              I thrive in dynamic environments where innovation and adaptability are key. With a knack for fast learning and a relentless drive to acquire new skills, I'm committed to staying at the forefront of technology. Whether it's designing elegant user interfaces or optimizing backend systems, I'm dedicated to delivering high-quality solutions that exceed expectations. Ready to tackle new challenges and embrace continuous growth, I'm excited to contribute my expertise to innovative projects and collaborate with like-minded professionals. Let's embark on this journey of exploration and excellence together!
         </p>

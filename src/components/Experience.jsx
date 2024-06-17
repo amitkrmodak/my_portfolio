@@ -9,6 +9,8 @@ import github from "../assets/github.png";
 import tailwind from "../assets/tailwind.png";
 import node from "../assets/node_logo.png";
 import java from "../assets/java.png";
+import sprint_boot from "../assets/spring boot.png";
+import hibernate from "../assets/hibernate.png";
 
 const Experience = () => {
   const techs = [
@@ -27,7 +29,7 @@ const Experience = () => {
     {
       id: 3,
       src: javascript,
-      title: "JavaScript",
+      title: "Java Script",
       style: "shadow-yellow-500",
     },
     {
@@ -44,9 +46,9 @@ const Experience = () => {
     },
     {
       id: 6,
-      src: java,
-      title: "Java",
-      style: "shadow-green-400",
+      src: node,
+      title: "Node js",
+      style: "shadow-pink-400",
     },
     {
       id: 7,
@@ -57,16 +59,33 @@ const Experience = () => {
     {
       id: 8,
       src: mongodb,
-      title: "MongoDB",
-      style: "shadow-gray-400",
+      title: "Mongo DB",
+      style: "shadow-pink-400",
     },
     {
       id: 9,
-      src: github,
-      title: "GitHub",
+      src: java,
+      title: "Java",
+      style: "shadow-green-400",
+    },
+    {
+      id: 10,
+      src: sprint_boot,
+      title: "Spring Boot",
       style: "shadow-gray-400",
     },
-   
+    {
+      id: 11,
+      src: hibernate,
+      title: "Hibernate",
+      style: "shadow-gray-400",
+    },
+    {
+      id: 11,
+      src: github,
+      title: "Github",
+      style: "shadow-gray-400",
+    },
   ];
 
   return (
